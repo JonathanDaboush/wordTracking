@@ -1,0 +1,26 @@
+ASSIGNMENT 3: BINARY SEARCH TREES AND SERIALIZATION
+======================================================
+
+The assignment is 100% complete.
+
+REQUIREMENTS
+-------------
+Java JDK 11 (OpenJDK was used during development and testing)
+
+RUNNING THE SORTER:
+-------------------
+From the command line:
+    java -jar word-tracker.jar [OPTION] <input file...>
+
+	-pf,        output format: words (alphabetic order) with files
+	-pl,        output format: words (alphabetic order) with files and line number
+	-po,        output format: words (alphabetic order) with files, line numbers and occurrences
+	-f<file>    [optional] output file
+
+i.e. -po res/textfile.txt
+
+KNOWN ISSUES
+------------
+Contractions, pluralizations and proper nouns are not handled.
+
+--------------------------------------------------------------------

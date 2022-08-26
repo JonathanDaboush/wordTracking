@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="word-tracker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assignment3/word-tracker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
